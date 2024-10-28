@@ -1,0 +1,11 @@
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\bin\Debug\db.peliculas.mdf
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\bin\Debug\ISNP115424_ISNP151524_Bloque2.exe.config
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\bin\Debug\ISNP115424_ISNP151524_Bloque2.exe
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\bin\Debug\ISNP115424_ISNP151524_Bloque2.pdb
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\obj\Debug\ISNP115424_ISNP151524_Bloque2.csproj.AssemblyReference.cache
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\obj\Debug\ISNP115424_ISNP151524_Bloque2.Form1.resources
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\obj\Debug\ISNP115424_ISNP151524_Bloque2.Properties.Resources.resources
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\obj\Debug\ISNP115424_ISNP151524_Bloque2.csproj.GenerateResource.cache
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\obj\Debug\ISNP115424_ISNP151524_Bloque2.csproj.CoreCompileInputs.cache
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\obj\Debug\ISNP115424_ISNP151524_Bloque2.exe
+C:\Users\Maril\OneDrive\Desktop\ISNP115424_ISNP151524_Bloque2\ISNP115424_ISNP151524_Bloque2\obj\Debug\ISNP115424_ISNP151524_Bloque2.pdb
